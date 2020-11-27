@@ -1,0 +1,19 @@
+{
+    "name": "CipherXOPS/Php-self-bot",
+    "description": "Php self bot",
+    "type": "project",
+    "require": {
+        "danog/madelineproto": "^5.1"
+    },
+    "license": "AGPL-3.0-only",
+    "authors": [
+        {
+            "name": "CipherX",
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Your\\Project\\": "src/"
+        }
+    }
+} 
