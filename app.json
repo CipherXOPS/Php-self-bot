@@ -1,0 +1,24 @@
+{
+    "name": "Self Bot",
+    "description": "A simple bot to manage your account.",
+    "keywords": [
+        "Self",
+        "Bot",
+        "Telegra."
+    ],
+    "website": "#TODO",
+    "repository": "https://github.com/CipherXOPS/Php-self-bot",
+    "success_url": "/",
+    "env": {
+        "START_MESSAGE": {
+            "description": "A start message for your bot."
+        }
+    },
+    "formation": {
+        "web": {
+            "quantity": 1,
+            "size": "free"
+        }
+    },
+    "image": "heroku/php"
+}
